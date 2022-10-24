@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "bf49f42a70b94884",
+    "type": "split",
+    "children": [
+      {
+        "id": "332d2d099f373e44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "314262daf124bb92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人笔记/Oracle 速查/连接查询.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5aa1667c43e1729",
+    "type": "split",
+    "children": [
+      {
+        "id": "30a9611482f367b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361e8c6c7b9cea55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aefc2a6fc6a3197f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4677de52997c3c14",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5f61a85f4dd0d608",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a8c7da3b0b5ca7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae3835e0cf886859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "个人笔记/Oracle 速查/连接查询.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1eee1700ac2c2533",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "个人笔记/Oracle 速查/连接查询.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b9f76a71460e942",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28b63dbe2ad40872",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "个人笔记/Oracle 速查/连接查询.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "314262daf124bb92",
+  "lastOpenFiles": [
+    "个人笔记/Oracle 速查/assets/image-20221010104342981.png",
+    "个人笔记/Oracle 速查/assets/image-20221010102513396.png",
+    "个人笔记/Oracle 速查/assets/image-20221009164851601.png",
+    "个人笔记/SQL/SQL 基础/数据更新（DML）.md",
+    "个人笔记/SQL/SQL 基础/数据定义（DDL）.md",
+    "个人笔记/SQL/SQL 基础/数据查询（DQL）.md",
+    "个人笔记/SQL/PLSQL/PLSQL变量.md",
+    "个人笔记/SQL/PLSQL/PLSQL介绍.md",
+    "个人笔记/书本记录/我们为什么要睡觉.md"
+  ]
+}
