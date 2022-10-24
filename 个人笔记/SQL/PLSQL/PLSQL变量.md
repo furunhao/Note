@@ -483,3 +483,21 @@ statement
 end loop tag_name;
 ```
 
+```sql
+declare
+    n_num number(8) :=1;
+    begin
+    DBMS_OUTPUT.PUT_LINE('当前变量的值是：'||n_num);
+    <<while_loop>>
+    while n_num<20
+    loop
+        if mod(n_num,3)=0 then
+            DBMS_OUTPUT.PUT_LINE(n_num||'');
+        end if;
+        n_num := n_num+1;
+        end loop;
+    DBMS_OUTPUT.PUT_LINE('退出，当前变量的值是：'||n_num);
+    DBMS_OUTPUT.PUT_LINE('结束循环');
+end;
+```
+
