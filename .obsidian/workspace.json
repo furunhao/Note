@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "332d2d099f373e44",
+        "id": "afd6a22d7b29919a",
         "type": "tabs",
         "children": [
           {
-            "id": "314262daf124bb92",
+            "id": "3bd66ad481b7ff59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人笔记/Oracle 速查/连接查询.md",
+                "file": "个人笔记/SQL/PLSQL/异常.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5
   },
   "right": {
     "id": "5f61a85f4dd0d608",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人笔记/Oracle 速查/连接查询.md",
+                "file": "个人笔记/SQL/PLSQL/异常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人笔记/Oracle 速查/连接查询.md",
+                "file": "个人笔记/SQL/PLSQL/异常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,30 +125,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人笔记/Oracle 速查/连接查询.md"
+                "file": "个人笔记/SQL/PLSQL/异常.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "314262daf124bb92",
+  "active": "3bd66ad481b7ff59",
   "lastOpenFiles": [
-    "个人笔记/Oracle 速查/assets/image-20221010104342981.png",
-    "个人笔记/Oracle 速查/assets/image-20221010102513396.png",
-    "个人笔记/Oracle 速查/assets/image-20221009164851601.png",
+    "个人笔记/SQL/PLSQL/使用 DML和DDL语句.md",
     "个人笔记/SQL/SQL 基础/数据更新（DML）.md",
     "个人笔记/SQL/SQL 基础/数据定义（DDL）.md",
-    "个人笔记/SQL/SQL 基础/数据查询（DQL）.md",
-    "个人笔记/SQL/PLSQL/PLSQL变量.md",
-    "个人笔记/SQL/PLSQL/PLSQL介绍.md",
-    "个人笔记/书本记录/我们为什么要睡觉.md"
+    "个人笔记/SQL/PLSQL/结构.md",
+    "个人笔记/SQL/PLSQL/表达式.md",
+    "个人笔记/SQL/PLSQL/变量.md",
+    "成考知识点.md",
+    "img/image-20221028225923225.png",
+    "img/image-20221010155323913.png",
+    "成考/未命名.md"
   ]
 }
