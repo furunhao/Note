@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afd6a22d7b29919a",
+        "id": "26b0ea1c89bf6dce",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd66ad481b7ff59",
+            "id": "b341faa4598ade91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人笔记/SQL/PLSQL/异常.md",
+                "file": "个人笔记/SQL/游标/介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f61a85f4dd0d608",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人笔记/SQL/PLSQL/异常.md",
+                "file": "个人笔记/SQL/游标/介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人笔记/SQL/PLSQL/异常.md",
+                "file": "个人笔记/SQL/游标/介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人笔记/SQL/PLSQL/异常.md"
+                "file": "个人笔记/SQL/游标/介绍.md"
               }
             }
           }
@@ -137,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bd66ad481b7ff59",
+  "active": "b341faa4598ade91",
   "lastOpenFiles": [
-    "个人笔记/SQL/PLSQL/使用 DML和DDL语句.md",
+    "个人笔记/SQL/存储过程/介绍.md",
+    "个人笔记/SQL/视图/视图基础.md",
+    "个人笔记/SQL/视图/视图介绍.md",
+    "个人笔记/Oracle 速查/连接查询.md",
+    "个人笔记/SQL/PLSQL/PLSQL介绍.md",
+    "个人笔记/SQL/PLSQL/异常.md",
     "个人笔记/SQL/SQL 基础/数据更新（DML）.md",
-    "个人笔记/SQL/SQL 基础/数据定义（DDL）.md",
-    "个人笔记/SQL/PLSQL/结构.md",
-    "个人笔记/SQL/PLSQL/表达式.md",
+    "个人笔记/SQL/PLSQL/img/image-20221031160818829.png",
     "个人笔记/SQL/PLSQL/变量.md",
-    "成考知识点.md",
-    "img/image-20221028225923225.png",
-    "img/image-20221010155323913.png",
-    "成考/未命名.md"
+    "个人笔记/SQL/PLSQL/使用 DML和DDL语句.md"
   ]
 }

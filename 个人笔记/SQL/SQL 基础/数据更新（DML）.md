@@ -79,6 +79,7 @@ where password = '123456';
 ```sql
 delete
 from login; -- 删除表内所有的数据
+
 delete
 from login
 where loginname = 'wang';
